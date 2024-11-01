@@ -12,6 +12,6 @@ ineligible:
       }    
       else    
       {    
-              cout<<"You are eligible to vote!";     
+              cout<<"You are eligible to vote !!";     
       }         
 }  
