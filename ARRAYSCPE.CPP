@@ -28,7 +28,7 @@ int main() {
     update(arr, 3);
 
     // Printing the original array
-    cout << endl << "Printing in main function" << endl;
+    cout << endl << "Printing  main function" << endl;
     for (int i = 0; i < 3; i++) {
         cout << originalArr[i] << " ";
     }
